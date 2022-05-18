@@ -1,3 +1,3 @@
 # Calculo
-contem scripts para auxilio de calculo
+Contém scripts para auxilio de cálculos
 instalar calculadora bc para os scripts
