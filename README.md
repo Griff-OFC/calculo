@@ -1,4 +1,4 @@
 # Calculo
 Contém scripts para auxilio de cálculos
-#OBS
+# OBS
 instalar calculadora bc para os scripts
